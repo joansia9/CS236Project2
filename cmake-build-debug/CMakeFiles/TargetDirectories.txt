@@ -1,0 +1,3 @@
+/Users/joansiasoyco/Desktop/CS236project-2/cmake-build-debug/CMakeFiles/project_1.dir
+/Users/joansiasoyco/Desktop/CS236project-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/joansiasoyco/Desktop/CS236project-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
